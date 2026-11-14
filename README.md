@@ -1,2 +1,4 @@
-# OS_Practicals
-Operating Systems practicals and lab manual
+My Name :Harshit Chaudhary 
+Section: Ios
+Roll no: 28
+University Roll No: 2025211
